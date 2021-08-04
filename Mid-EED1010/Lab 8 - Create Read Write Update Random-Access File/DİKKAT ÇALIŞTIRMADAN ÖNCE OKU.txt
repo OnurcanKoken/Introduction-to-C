@@ -1,0 +1,1 @@
+Kod u çalýþtýrmadan önce bus ý baþka bir yerde kopyasýný sakla çünkü kodu çalýþtýrdýktan sonra o dosya deðiþecektir!!!
